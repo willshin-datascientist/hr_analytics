@@ -1,1 +1,1 @@
-# public_projects
+Public Projects
