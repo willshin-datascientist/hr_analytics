@@ -1,1 +1,1 @@
-HR Analytics
+HR Analytics resources
